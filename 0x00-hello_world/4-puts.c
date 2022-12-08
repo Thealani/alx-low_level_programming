@@ -2,7 +2,6 @@
 
 /**
  * main  - Entry point of the program
- * 
  * Return: Always return (0)
  */
 
