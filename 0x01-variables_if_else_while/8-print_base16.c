@@ -3,11 +3,10 @@
 
 /*
  * main - prints all the numbers of base 16 in lowercase
- * Description: A program that print all numbers of base 16 in lowercase
  * Return: Always 0 (Success)
  */
 
-int main(void)
+int main(void) /* main */
 {
 	int num = '0'; /*Initialize num to 0*/
 	char letter = 'a'; /*Initialize letter to a*/
